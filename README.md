@@ -29,5 +29,5 @@ This is a Full Stack Web Application to manage employees.
 1. Open a terminal
 2. Go to backend folder:
    ```bash
-   cd backend
+   ./mvnw spring-boot:run
 
