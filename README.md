@@ -14,7 +14,7 @@ This is a Full Stack Web Application to manage employees.
 
 ## 📁 Project Structure
 
-###employee-management/
+### employee-management/
 -│
 -├── frontend/ --> React app
 -├── backend/ --> Spring Boot app
