@@ -25,19 +25,18 @@ This is a Full Stack Web Application to manage employees.
 
 ## 📸 Screenshots
 
-
 ### 📋 Employee List
-![Employee List](imagess\Screenshot 2025-08-04 100609.png)
+![Employee List](images/employee-list.png)
 
 ---
 
 ### ➕ Add Employee Form
-![Add Employee Form](imagess\Screenshot 2025-08-04 100537.png)
+![Add Employee Form](images/add-employee-form.png)
 
 ---
 
 ### ✏️ Update Employee Form
-![Update Employee Form](imagess\Screenshot 2025-08-04 100633.png)
+![Update Employee Form](images/update-employee-form.png)
 
 ---
 
