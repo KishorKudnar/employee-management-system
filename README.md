@@ -23,6 +23,24 @@ This is a Full Stack Web Application to manage employees.
 
 ---
 
+## 📸 Screenshots
+
+
+### 📋 Employee List
+![Employee List](imagess\Screenshot 2025-08-04 100609.png)
+
+---
+
+### ➕ Add Employee Form
+![Add Employee Form](imagess\Screenshot 2025-08-04 100537.png)
+
+---
+
+### ✏️ Update Employee Form
+![Update Employee Form](imagess\Screenshot 2025-08-04 100633.png)
+
+---
+
 ## 🚀 How to Run This Project
 
 ### 🖥️ Backend (Spring Boot)
